@@ -65,7 +65,7 @@ section::before {
 }
 
 .gift::before {
-    content: "\2605";
+    content: "";
     font-size: 1.5em;
     color: #c62828;
     float: left;
