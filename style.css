@@ -23,7 +23,7 @@ header {
 }
 
 section {
-    margin: 20px;
+    margin: 30px;
     margin-top:0;
     margin-bottom: 0;
     text-align: left;
@@ -33,7 +33,6 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-bottom: 80px;
 }
 
 .gift {
