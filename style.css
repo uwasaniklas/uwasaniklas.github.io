@@ -60,6 +60,7 @@ section::before {
     content: " ";
     display: table;
     clear: both;
+    margin-top: 25px;
 }
 
 .gift-container::after {
