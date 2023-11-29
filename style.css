@@ -76,3 +76,15 @@ section::before {
     float: left;
     margin-right: 5px;
 }
+
+nav {
+    text-align: left;
+}
+
+nav a {
+    padding: 5px;
+    margin: 5px 5px;
+    display: inline-block;
+    background-color: white;
+    text-decoration: underline;
+}
